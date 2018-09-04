@@ -1,0 +1,150 @@
+{
+jinshan=
+        <?xml version="1.0" encoding="UTF-8"?>
+        <dict num="219" id="219" name="219">
+            <key>search</key>
+            <ps>sɜ:tʃ</ps>
+            <pron>http://res.iciba.com/resource/amp3/0/0/06/a9/06a943c59f33a34bb5924aaf72cd2995.mp3</pron>
+            <ps>sɜrtʃ</ps>
+            <pron>http://res.iciba.com/resource/amp3/1/0/06/a9/06a943c59f33a34bb5924aaf72cd2995.mp3</pron>
+            <pos>v.</pos>
+            <acceptation>搜寻，搜索；调查；搜查；探求；</acceptation>
+            <pos>n.</pos>
+            <acceptation>搜索；调查；探求；</acceptation>
+            <sent>
+                <orig>Find a matching string SEARCH, and the word in the sentence position hexadecimal number displayed.</orig>
+                <trans>查找匹配字符串SEARCH, 并把该字在句子中的位置用十六进制数显示出来.</trans>
+            </sent>
+            <sent>
+                <orig>But regardless of searches the technology is complex, search Classified search, index search and bookmark search.</orig>
+                <trans>搜索引擎是一门技术,它是由搜索器 、 索引器、检索器和用户接口四个部分组成, 这四个部分各尽所能,保证搜索引擎的正常工作.</trans>
+            </sent>
+            <sent>
+                <orig>There are two basic search methods, namely, tree - type search and linear search.</orig>
+                <trans>搜索方式有两种基本的方式, 即树 式 搜索和线式搜索.</trans>
+            </sent>
+            <sent>
+                <orig>Search strategy has largely blind search and heuristic search two categories.</orig>
+                <trans>搜索策略大体有盲目搜索和启发式搜索两大类.</trans>
+            </sent>
+            <sent>
+                <orig>SEARCH: Both full - text search engines and ones that search descriptions of documents and other content.</orig>
+                <trans>搜索层: 全文搜索引擎和搜索文档描述和其他内容的搜索引擎.</trans>
+            </sent>
+        </dict>
+, 
+baidu=
+{
+    "from":"en",
+    "to":"zh",
+    "trans_result":[
+        {
+            "src":"search",
+            "dst":"搜索"
+        }
+    ]
+}
+, 
+youdao=
+<?xml version="1.0" encoding="UTF-8"?>
+<youdao-fanyi>
+    <errorCode>0</errorCode>
+    <query>
+        <![CDATA[search]]>
+    </query>
+    <!-- 有道翻译 -->
+    <translation>
+        <paragraph>
+            <![CDATA[搜索]]>
+        </paragraph>
+    </translation>
+    <!-- 有道词典-基本词典 -->
+    <basic>
+        <!-- 音标 -->
+        <phonetic>
+            <![CDATA[sɜːtʃ]]>
+        </phonetic>
+        <!-- 美式音标 -->
+        <us-phonetic>
+            <![CDATA[sɝtʃ]]>
+        </us-phonetic>
+        <!-- 英式音标 -->
+        <uk-phonetic>
+            <![CDATA[sɜːtʃ]]>
+        </uk-phonetic>
+        <!-- 基本释义 -->
+        <explains>
+            <ex>
+                <![CDATA[n. 搜寻；探究，查究]]>
+            </ex>
+            <ex>
+                <![CDATA[vt. 搜索；搜寻；调查；搜查；探求]]>
+            </ex>
+            <ex>
+                <![CDATA[vi. 搜寻；调查；探求]]>
+            </ex>
+            <ex>
+                <![CDATA[n. (Search)人名；(英)瑟奇]]>
+            </ex>
+        </explains>
+    </basic>
+    <!-- 有道词典-网络释义 -->
+    <web>
+        <explain>
+            <key>
+                <![CDATA[Search]]>
+            </key>
+            <value>
+                <ex>
+                    <![CDATA[搜寻商品]]>
+                </ex>
+                <ex>
+                    <![CDATA[搜索]]>
+                </ex>
+                <ex>
+                    <![CDATA[搜]]>
+                </ex>
+            </value>
+        </explain>
+        <explain>
+            <key>
+                <![CDATA[Linear search]]>
+            </key>
+            <value>
+                <ex>
+                    <![CDATA[线性搜索]]>
+                </ex>
+                <ex>
+                    <![CDATA[线性搜寻]]>
+                </ex>
+                <ex>
+                    <![CDATA[线性查找]]>
+                </ex>
+            </value>
+        </explain>
+        <explain>
+            <key>
+                <![CDATA[Desktop search]]>
+            </key>
+            <value>
+                <ex>
+                    <![CDATA[桌面搜索]]>
+                </ex>
+                <ex>
+                    <![CDATA[桌面搜索]]>
+                </ex>
+                <ex>
+                    <![CDATA[桌面搜寻]]>
+                </ex>
+            </value>
+        </explain>
+    </web>
+</youdao-fanyi>
+,
+ praise=
+        {
+        jinshanpraise=1,0, 
+        baidupraise=0,0, 
+        youdaopraise=0,0
+        }
+ }
